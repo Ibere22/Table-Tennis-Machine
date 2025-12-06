@@ -1,15 +1,94 @@
+# Build files
+build/
+**/build/
+*.class
+*.jar
+*.war
+*.ear
+*.apk
+*.aab
+
+# IDE files
+.idea/
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+*.swp
+*.swo
+*~
+.vscode/
+*.code-workspace
+
+# OS files
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+Thumbs.db
+desktop.ini
+
+# Gradle
+.gradle/
+**/.gradle/
 local.properties
+**/local.properties
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Android
+*.apk
+*.ap_
+*.aab
+captures/
+.externalNativeBuild/
+.cxx/
+*.dex
+*.class
+
+# Kotlin
+*.kt.class
+.kotlin/
+
+# Arduino
+*.hex
+*.elf
+*.bin
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Test files and old versions
+TestApp/
+currEsp.ino
+esp32Test.ino
+stepperControl.ino
+StepperTest.ino
+
+# Project reports
+*.pdf
+Junior_Project_Report.md
+PROJECT_SUMMARY.md
+
+# Generated files
+**/generated/
+**/intermediates/
+**/outputs/
+**/tmp/
+
+# APK files
+*.apk
+*.ap_
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+
+# Gradle wrapper (keep the jar and properties, ignore cache)
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
