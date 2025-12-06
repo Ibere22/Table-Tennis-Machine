@@ -4,18 +4,18 @@ A fully functional, wireless-controlled table tennis ball launcher system design
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [System Architecture](#system-architecture)
-- [Hardware Requirements](#hardware-requirements)
-- [Software Setup](#software-setup)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Training Modes](#training-modes)
-- [API Endpoints](#api-endpoints)
-- [Technical Details](#technical-details)
-- [Contributors](#contributors)
-- [License](#license)
+- [Overview](#-overview)
+- [Features](#-features)
+- [System Architecture](#-system-architecture)
+- [Hardware Requirements](#-hardware-requirements)
+- [Software Setup](#-software-setup)
+- [Project Structure](#-project-structure)
+- [Usage](#-usage)
+- [Training Modes](#-training-modes)
+- [API Endpoints](#-api-endpoints)
+- [Technical Details](#-technical-details)
+- [Contributors](#-contributors)
+- [License](#-license)
 
 ## 🎯 Overview
 
