@@ -2,11 +2,6 @@
 
 A fully functional, wireless-controlled table tennis ball launcher system designed for solo practice and skill development. This project combines embedded systems programming (ESP32), Android app development, and mechanical engineering to create an affordable, customizable training solution.
 
-![Project Status](https://img.shields.io/badge/status-complete-success)
-![ESP32](https://img.shields.io/badge/ESP32-WiFi-blue)
-![Android](https://img.shields.io/badge/Android-Kotlin-green)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -17,8 +12,10 @@ A fully functional, wireless-controlled table tennis ball launcher system design
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Training Modes](#training-modes)
+- [API Endpoints](#api-endpoints)
 - [Technical Details](#technical-details)
 - [Contributors](#contributors)
+- [License](#license)
 
 ## 🎯 Overview
 
@@ -268,7 +265,7 @@ Unpredictable training:
 
 ## 👥 Contributors
 
-- **Irakli Beridze** - Software Development (ESP32 firmware, Android app)
+- **Irakli Berelidze** - Software Development (ESP32 firmware, Android app)
 - **Giorgi Abakumovi** - Electromechanical Design (3D printing, circuit assembly)
 
 **Supervisors**: Guga Vardiashvili, Zviad Sulaberidze
@@ -279,21 +276,6 @@ Unpredictable training:
 
 This project is open-source and available for educational and personal use.
 
-## 🔮 Future Enhancements
-
-- [ ] Horizontal movement mechanism for wider shot coverage
-- [ ] Spin variation control (topspin, backspin, sidespin)
-- [ ] Data logging and visualization features
-- [ ] Ball recycling system for continuous practice
-- [ ] Performance analytics and progress tracking
-
-## 📚 Additional Resources
-
-- [ESP32 Documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
-- [Android Jetpack Compose](https://developer.android.com/jetpack/compose)
-- [Arduino JSON Library](https://arduinojson.org/)
-
----
 
 **Note**: This project was developed as a Junior Project at the Free University of Tbilisi. For detailed technical documentation, see the project report.
 
